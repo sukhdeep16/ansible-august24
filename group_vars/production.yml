@@ -1,0 +1,4 @@
+#vars:
+apache_package: apache2
+newpackage_nginx: nginx
+#php_package: libapache2-mod-php

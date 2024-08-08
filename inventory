@@ -1,2 +1,6 @@
+[production]
 10.3.0.7
 10.3.0.4
+
+#10.3.0.7 apache_package=apache2 php_package=libapache2-mod-php
+#10.3.0.4 apache_package=apache2 php_package=libapache2-mod-php
